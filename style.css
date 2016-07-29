@@ -1,0 +1,72 @@
+body {
+  margin-top: 50px;
+  font-family: Pontano Sans;
+}
+
+h3, blockquote, h4 {
+  color: #793333;  
+}
+
+p {
+  font-size: 17px !important;
+}
+
+img {
+  border-radius: 5px;
+}
+
+.monty-image {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  height: 70%;
+  width: 70%;
+}
+
+.blake-image {
+  margin-top: 40px;
+  margin-right: 100px;
+  height: 30%;
+  width: 30%;
+  float: right;
+}
+
+.team-image {
+  margin-top: 30px;
+  margin-bottom: 10px;
+  margin-left: 100px;
+  height: 50%;
+  width: 50%;
+}
+
+.team-image2 {
+  margin-top: 30px;
+  margin-left: 100px;
+  height: 50%;
+  width: 50%;
+}
+
+.vytal-image{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  height: 70%;
+  width: 70%;
+}
+
+table {
+  border: 1px solid black;
+  margin: 0 auto !important;
+  float: none !important;
+}
+
+th {
+  border: 1px solid black;
+  padding: 10px;
+  background-color: #C3AEAE;
+  color: white;
+}
+
+td {
+  border: 1px solid black;
+  padding: 20px;
+  color: #793333;  
+}
